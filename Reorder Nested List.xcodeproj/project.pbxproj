@@ -38,6 +38,7 @@
 		D10A20CB2AF666A9005D818E = {
 			isa = PBXGroup;
 			children = (
+				D10A20E72AF67056005D818E /* README.md */,
 				D10A20D62AF666A9005D818E /* Reorder Nested List */,
 				D10A20D52AF666A9005D818E /* Products */,
 			);
@@ -57,7 +58,6 @@
 				D10A20E62AF66C5E005D818E /* Reorder-Nested-List-Info.plist */,
 				D10A20D72AF666A9005D818E /* Reorder_Nested_ListApp.swift */,
 				D10A20D92AF666A9005D818E /* ContentView.swift */,
-				D10A20E72AF67056005D818E /* README.md */,
 				D10A20DB2AF666AA005D818E /* Assets.xcassets */,
 				D10A20DD2AF666AA005D818E /* Reorder_Nested_List.entitlements */,
 				D10A20DE2AF666AA005D818E /* Preview Content */,
