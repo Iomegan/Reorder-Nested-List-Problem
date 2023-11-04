@@ -20,6 +20,7 @@
 		D10A20DB2AF666AA005D818E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D10A20DD2AF666AA005D818E /* Reorder_Nested_List.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Reorder_Nested_List.entitlements; sourceTree = "<group>"; };
 		D10A20DF2AF666AA005D818E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D10A20E62AF66C5E005D818E /* Reorder-Nested-List-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Reorder-Nested-List-Info.plist"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +53,7 @@
 		D10A20D62AF666A9005D818E /* Reorder Nested List */ = {
 			isa = PBXGroup;
 			children = (
+				D10A20E62AF66C5E005D818E /* Reorder-Nested-List-Info.plist */,
 				D10A20D72AF666A9005D818E /* Reorder_Nested_ListApp.swift */,
 				D10A20D92AF666A9005D818E /* ContentView.swift */,
 				D10A20DB2AF666AA005D818E /* Assets.xcassets */,
@@ -274,6 +276,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Reorder-Nested-List-Info.plist";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -312,6 +315,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Reorder-Nested-List-Info.plist";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
