@@ -21,6 +21,7 @@
 		D10A20DD2AF666AA005D818E /* Reorder_Nested_List.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Reorder_Nested_List.entitlements; sourceTree = "<group>"; };
 		D10A20DF2AF666AA005D818E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D10A20E62AF66C5E005D818E /* Reorder-Nested-List-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Reorder-Nested-List-Info.plist"; sourceTree = SOURCE_ROOT; };
+		D10A20E72AF67056005D818E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 				D10A20E62AF66C5E005D818E /* Reorder-Nested-List-Info.plist */,
 				D10A20D72AF666A9005D818E /* Reorder_Nested_ListApp.swift */,
 				D10A20D92AF666A9005D818E /* ContentView.swift */,
+				D10A20E72AF67056005D818E /* README.md */,
 				D10A20DB2AF666AA005D818E /* Assets.xcassets */,
 				D10A20DD2AF666AA005D818E /* Reorder_Nested_List.entitlements */,
 				D10A20DE2AF666AA005D818E /* Preview Content */,

@@ -11,6 +11,8 @@ import UniformTypeIdentifiers.UTType
 
 struct ContentView: View {
     var body: some View {
+        ItemView(fileItem: FileItem(name: "Dragging this from outside the list works on all plattforms!"))
+
         List {
             OutlineGroup(data, children: \.children) { item in
                 ItemView(fileItem: item)
